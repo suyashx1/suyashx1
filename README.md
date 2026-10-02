@@ -12,6 +12,13 @@
 <br>
 <br>
 
+<h3><code>suyashx1@github ~ $ ./wordmark.sh</code></h3>
+
+<img src="./suyash-wordmark.svg" width="860" alt="Suyash Gupta - Animated ASCII Name Card" />
+
+<br>
+<br>
+
 <h3><code>suyashx1@github ~ $ ./contributions.sh</code></h3>
 
 <img src="./contrib-heatmap.svg" width="860" alt="Suyash Gupta's GitHub contribution graph - auto-refreshed daily" />
