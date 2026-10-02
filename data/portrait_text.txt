@@ -1,0 +1,70 @@
+j:                                        : :
+::                                                       :::   :  :  :           :
+::                                      :              :      :       :           :           :
+j:                                      : : :         :
+::                                   ::::::      :             :         :
+j:                                  ::::: : ::    :             ::: :          :
+::                                  :: :  :  ::: :           : ::::::::::
+::                                 : ::    :::::::::      ::::::::j:::::::::                     :
+::                                 ::::  :::   :::::    ::j:jjjjjjjjjjjj::::::
+::                                : ::::: :: :::j:j::::jjjjjxxjjjjjjjjjjj::::::
+::                               :  : ::::::::jjjxjjjjxxxxxxxxxxxxxxjjjjj:::::::                       :
+::                               ::::::::::::jxxxxxoooooooxxxxxxxxxxxjjjj::::::
+::                                ::::::::::jxxxoooooooooxxxxxxxxxxxxxjjjjj::::                         :
+:                                 : :  :: :jjxxoooooooooooooxxxooooxxxxxxxxjj::::
+::                                :::::::::jxxoooooooo@o@o@oooooo@ooooxxv=j::j:j:::
+::                                 ::::::::xooooooo@@@@@@@@@@@@@@@@oojjj_juxxxjjjjj::            :  :  :  :
+:                                   ::::::|oooooxooooUU5$@o@@@@@oooxxxxxxx)!::: :!jj::         ::::         :
+                                     :::: |oooxxoooxxuuggoooo@@oox:j=vjjg|_,: !: ::::::       : :::: :  : :
+                                       ::::oooooo@ooQwovvn$@ooooj:: :::jxu___;jj::::::: :     ::: ::
+                                        :::|oo@@@oox)_.:ixjxooooj::   :jjxxxxxjjjjj::::       :::: :
+               :                         ::|o@@oosjUCuu_uxooxo@oxj: : :::jjjxxxjjjjjj:::       ::: : : : : : :  :
+....:                                   \u;:|o@ooo@@@@@@ooooooooxj::  :::jjjjxxxxjjjj:::         :    :     :    :
+: :       :::                           qqop|o@o@@@@@@@@@o@o@oooxj:    ::jjjjjjxjjjjj:::       :    :  : :      :
+____:::                                 |xooyo@o@@@@@@@@@@o@o@ooxj::    ::jjjjjjjjjj::::     :    :  :      :    :    :
+@@@@@---ou:                              /o@@@@@@@@@@@@@o@@@oo@@@o/:__:::jxxxxxjjjj:::::     ::::  :                   :      :
+ggggggugu;__:                         : ::|@ooo@@@@@@@@@@@@@@@Q@@@|=!io:|jxxxxjjjj:::::          :  : : : : :   :  :
+@@@@@@@@@@p:::                            |ooxvq@@@@@@@@@@@@oggg@oguj:::jjjjxxjjjj:::::       :   :             :
+@U]1XUwoae=:j: ::                    :   : |xqoo@@@@@@@@@@ooooo@@@@pjjjj:jjjjjjjj::::::        : : : : :   :     :            :
+opxxxo@gg|::j:::::                       :::|g@@a@@@@@@@@@@oo@oow$$oxj:jjjjjjjj:j:::::          :                  : :     :::::
+xxxxxxoog|j:j:::::                         : !+':q@@@@@@@@@@@@ooogoaxjjjjjjjjjjj::::::             : :  :       : :: :  ::::::
+gggggg@@@b;:j:::::                       : : : : |q@@@@@@@@@@wxxxxxxjjjj:::jxjjjj:::: :                        :::    :::: :
+@@@@@@Xqyv::c:::::                    :   :   : : |o@@@@@@oxxooogoooxxjj:jjjjjjj:::: : : :                 :::: : ::::::: :
+@@@@@@aI;::||:::::                       :  : :  ::/o@@@@@@@@o@ooooooxxxxxxxxxjjj::: :: : ::         : :::::::::::::::::  : ::  :
+o@@@@@ajxqg~:: :::                        :  : :   ://o@@@@@@@@ooooooooooxxxxxjj:: ::: :::::        :::::::::: :::::: : :::::::
+o@@@@@1yj|o: : :::                    :   : :   : : :'/oo@@@@@@@@@@@@@oooxxxxjj::::::::jj::      ::::::::::::: : ::::::::: :::: :::
+o@@@@@aj:|o: : :::                         : :: : :    ://o@@@@@@@@@@@oooxxxjj::::::_xxjj::     :::::::::::::   : :::::::::::::: ::  ::
+o@@@@@xjj|@: :::::                       :         : :   :'//Q@@@@ooooooxxxjj:::j|uxxxx]::     ::::::::::::::     ::::::: : ::::  ::
+oo@@@@xjj|p: : :::                        : : : :     :      :/xooooxxxxxxjjjjxxxooooo|:::  :  ::::::::::::::    ::::::::::::::::     :
+o@@@@@u|:io: :::::                       :        : :   : :: ::/oo@@@oooooooooooo@@@@o|::: :  :::::::::::::::    :::::::::::::::::::     :
+o@@@@@xjj|@: : :::                        : : : :  :::::::::::::|ooo@o@@o@ooo@o@@@@@o\:::::: :::::::::::::::::   j:::::::::::::: :::    : :
+o@@@@@gguu@: : :::                        :  :   ::::::::::::::::/ooo@o@@@@@@@@@@@@@(::::::::::::::::::::::j::  :::::::::j::j:::  ::: : :
+ooo@@@ooooo//: :::                    : ::::::::::::::::::::::  ::|oo@@@@@@@@@@@@@@|::::::::::::::::::::::::::  :j:::j:::jj:::::: : :  : :
+o@@@@@ucjiooo;::::     :::::j:j:::::jjjjjjxxxx=::::::::::::::    |xooo@@@@@@@@@@@@@|:::::::::::::::::::::::jj::  j:::jj::jjj:::::: :  :::
+o@@@@@x|:i|oo|: ::     :::::jjjjj::::jjjjxxxx|:::::::::::::::: ::jxxoo@o@@@@@@@@@@c:::::::::::::::j:::::j:::j::: !jj::jj:jj::::::: : ::::::
+ow$@@@o|:j|qox: ::     :::::j:j:j:::jjjjxxxxxj:::::::::::::::   :xxxoooo@@@@@@@@@|:j:::::::j:::::::::::::jj:jj::  j::jj:j:j::::::::   : :
+==*----(:!T|oo: ::     :::::j:j:j::::jjjxxxxx::::j::::::j:::::  :xxjjxooo@@@@@@@pjjj:jj::::j:j::::::::::::jj:jj:: !jj:::jj::: ::::::  :: : :
+:;: : :__/ |ox: :      :::::j:j::j::jjjjxxxxxj:: :j::::j::::::  !ooxxjxxoo@@@@@pc:'::::::::j::::j::j::::jj:jj:jj::::jjjjj::::: :: ::  :: :
+oo|   :wyxj|ox: ::     :::::j:j:j::::jjjjxxxxj:: ::j:::j::::::  !o@oogxoooo@@@@|:  :::::::::::j::::j::::jj::jjjjj::::jjjjj::::::: ::: ::::::
++!::   +1uuoox: :      ::::::j:::::::jjjjxxxxj::: ::j:::::::::  :|o@@@@@@o@o@@|j   ::::::j::::::j:::::::jjjj:jj:j:j:::jjjj::::::: :::__jjjjj
+:::::::::4oooo: ::     :::::::j::::::jjjjxxxxj:j:  ::j::j:::::   |o@@@@@@@@@@@j:   :j::j:jj::j:::::j:::::jjjj:jj::j:::jj:jj:::::::_jxxxxxjjj
+oxxx;::: |oooo::::     :::::j::::::::jjjjxxxxj::::  ::j:j:j:::   :[o@@@@@@@@@|j:   :j:j:jjj:::jj:j:j:::jjjjjjj:jj:j:j:j::::::::jjoooooxxxjjj
+$wooc.:: :oooo: :       ::::::::::::::jjjxxxxj::j::  ::j::jj:::   !|o@@@@@@@@cj:  :jj::jj:j:::j::j::::j:jj:j:jj::j:j:jj::j::::_gooooooxxxxjj
+        : oooo: :      :: ::::::::::::jjjxxxxj::j::  'jjjj:jj::   :|o@@@@@@@|jj  ::jj::jj:j:::jj:::::jjj:jjjj:jj::::::::jj:jj\@@@oooooxxxj::
+::::::   :xoox|         ::::::::::::::jjjxxxx|:::j::   :j:::jj::   :|o@@@@@@|j| ::j::jjjjj:j:::j:j::::jjjjjj::j:j:::::::jj:j\@@@@o@owv=!::
+xguxxxxxxjj/xx:        : :::::::::::::jjjxxxx|:::jj::   jjjj::j::  :|o@@@@@@jj  :jjj:jjjjj::j::j:::jjjjjjj::j:::j:::::::jjj\@@U\*=!:::
+V--YT-: :  :!!:         ::::::::::::::jjjxxxx|::::j:::  ::j:jj:j:   :|@@@@@|j:  :j:j::jjjjj:j:jj:::j:jjjj:jj:j::::::::::jjaUIj:::::: : :
+::::: : ::  ::          : ::::::::::::jjjjxxxxj:::::::    jjj:j:::  :|o@@@@|j  :jjjjjjjjjjj:j::jj::jjjjjj::::::j::::::::jjjjj::::: :
+::::::::::::::::::       : :  : : : :::jjjjjxxj::::j:::   ::j:jj::   :|@@@@|: :j:j:jjjjjjjj::j:jjjjjjj:jj:j::::::::::jjjjjj:::::: : :
+:::::: : :              : ::::::::::::::::::!=j:::::j:::   !j:j::::   |o@@pj  :::::jjjjjjjjj:j:jj:jjjjj:j:::::::::_jjjjjj::::::: :
+                        :::::::::::::jjjjj:: ::::::::::::   'j::j:::  :/@\::::::::jjjjjjjjjj:j:j:jjjj:j::::::::|jxjjjjj:::::::: : :
+                       :::::::::jjjjjjjjjjjj.::::|gc::j::    'j::jj:   :!::::::::jjjjjjjjjjj::jj:j:jjj:j:::::|xxjjjj::::::::: :
+                        :::::jjjjjjjjjjjjjjjj:::\@@p]:j::::   'jj::::  ::::::::::jjjjjjjjjjjj:j:jjjjj:::j:_xxjjjjj::::::::
+:: : : : : : :           ::::::::::jjjjjjjjjjjug@$\!:::j:::    'jjj:: ::::j::j::jjjjjjjjjjjjjjjjjj:j:j:jjjxjjjj:::::::::  :
+::::::::::::::::::::::::::::::::::::::::jjjjj\@\\`:::::j:::::   ::jjj::jj::j::::jjjjjjjjjjjjjjj:jj:j:jjxjjjjj:::::::::
+uuu______:::     :  :   :                 :\@\\ :::::::j::::::    :j:: jjjj:j::jjjjjjjjjjj:jj:jj:j|jxjjjjjj::::::::: : :
+ooooooooooooooxguu--___::: : : : : : : : \\U\:    :::::j::::::     :jj:'jjjjjjjjjjjjjjjjjjj:j:jjjxjjjjjjjj:::::::: :
+oooooooooooooooooooooooooooogu----____::\@e'       :::::j::::::     ::::'j:jjjjj:j::j:::::jjjxxxxjjjjjj:::::::
+ooooooooooooooooooooooooooooooooooooooog@sgooggggg-__;:::j:j::::     ::::':j:j::::::::jjjjxxxxxjjjjjj::::::: : :
+ooooooooooooooooooooooooooo@o@o@o@o@o@g@u@@@@@@@@oUxxj:::::::::::     :::: :::::::j:j|jxxxxxxjjjjj:::::::   :
+oooooooo@o@o@o@o@o@@@o@o@o@o@oo@o@o@@o@wo@@@@@@$oxxxxj! ::j:j:::::     :::: ::::jjjxxxxxxjjjj:::::::::
