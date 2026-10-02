@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
 Build a neofetch-style info card SVG to sit to the RIGHT of the ASCII portrait:
-colored key/value rows for education/experience, tech stack, and highlights.
+colored key/value rows for education, tech stack, and highlights.
+Dimensions (490x385) exactly match the portrait's rendered height at width 370.
 """
 import html
 import os
@@ -11,6 +12,7 @@ OUT = os.path.join(HERE, "..", "info-card.svg")
 STATIC = bool(os.environ.get("STATIC"))
 
 W = 490
+H = 385
 PAD = 20
 TITLEBAR_H = 30
 KEY_X = PAD
@@ -41,8 +43,8 @@ ROWS = [
     ("gap",),
     ("sec", "Highlights"),
     ("bul", "Smart India Hackathon (SIH) · Team Arcanix"),
-    ("bul", "Developed EVO_AI & automated skill platforms"),
-    ("bul", "Portfolio & projects: suyash.lovable.app"),
+    ("bul", "Building EVO_AI & automated skill systems"),
+    ("bul", "Portfolio: suyash.lovable.app"),
 ]
 
 def esc(s):
@@ -56,15 +58,6 @@ def rise(inner, i):
             f'<animate attributeName="opacity" from="0" to="1" begin="{delay:.2f}s" dur="0.4s" fill="freeze"/>'
             f'<animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" '
             f'begin="{delay:.2f}s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></g>')
-
-# Calculate height dynamically based on rows
-content_y = TITLEBAR_H + 28
-for row in ROWS:
-    if row[0] == "gap":
-        content_y += LINE_H * 0.5
-    else:
-        content_y += LINE_H
-H = int(content_y + PAD)
 
 parts = [
     f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" '
