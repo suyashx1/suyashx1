@@ -30,9 +30,9 @@
 
 <p><b>Computer Science &amp; Engineering Student &bull; Robotics &bull; AI &amp; Automation &bull; IoT</b></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-suyash.lovable.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://suyash.lovable.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-suyashx1.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://suyashx1.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-suyashx1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suyashx1)
-[![Website](https://img.shields.io/badge/Website-suyash.lovable.app-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=black)](https://suyash.lovable.app)
+[![Website](https://img.shields.io/badge/Website-suyashx1.vercel.app-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=black)](https://suyashx1.vercel.app)
 
 <br>
 
