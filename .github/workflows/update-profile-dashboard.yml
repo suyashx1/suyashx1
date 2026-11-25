@@ -1,0 +1,40 @@
+name: Update Profile Dashboard SVG
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate dashboard SVGs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/generate_dashboard_svg.py
+
+      - name: Commit and push updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- dark_mode.svg light_mode.svg; then
+            echo "No SVG changes detected"
+            exit 0
+          fi
+          git add dark_mode.svg light_mode.svg
+          git commit -m "chore: auto-update profile dashboard svgs"
+          git push
